@@ -1,0 +1,39 @@
+.container {
+    background-color: rgb(241, 246, 245);
+    color: rgb(8, 8, 12);
+    margin-right: 100px;
+    margin-left: 100px;
+    padding: 40px;
+    width: 35%;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+.dob {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+input {
+    display: block;
+    width: 30%;
+}
+
+select {
+    display: block;
+    width: 30%;
+}
+
+div {
+    font-weight: bold;
+}
+
+.submit {
+    margin-top: 10px;
+
+}
+
+#sub {
+    background-color: rgb(104, 243, 104);
+    height: 20px;
+}

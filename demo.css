@@ -1,0 +1,14 @@
+.my {
+    color: rgb(27, 220, 62);
+}
+
+div {
+    color: rgb(1, 15, 15);
+    font-size: 25px;
+    border: 2px solid black;
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    display: flex;
+    text-align: center;
+}
